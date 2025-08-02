@@ -3,6 +3,8 @@ import pandas as pd
 oldAgencies = pd.read_csv(r'C:\Users\nicol\Desktop\URSUSdata\Agency 5.csv')
 currentAgencies = pd.read_csv(r'C:\Users\nicol\Desktop\URSUSdata\UseofForce_ORI-Agency_Names_2024.csv')
 
-result = pd.merge(oldAgencies, currentAgencies, how='outer')
+missingAgencies = pd.merge(oldAgencies, currentAgencies, on='ORI', how='outer')
 
-result.to_excel('result.xlsx', index=False)
+missingAgencies['missing_from_agency5'] = missingAgencies['URSUS Agency Name'].isna()
+
+missingAgencies.to_csv('missingAgencies.csv', index=False)
