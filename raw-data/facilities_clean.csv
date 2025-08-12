@@ -1,0 +1,290 @@
+agency,facility,CDCR_facility,death_agency_full_name,death_agency_number,State_Agency,CntyCode,County,Code,Start,End
+California Department of Alcoholic Beverage Control (ABC),ABC Bakersfield,,,,ABC Bakersfield,15,Kern County,151A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC El Monte,,,,ABC El Monte,19,Los Angeles County,19B2,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Eureka,,,,ABC Eureka,12,Humboldt County,121A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Fresno,,,,ABC Fresno,10,Fresno County,101A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Inglewood,,,,ABC Inglewood,19,Los Angeles County,19B3,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Lakewood,,,,ABC Lakewood,19,Los Angeles County,19B4,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Metro,,,,ABC Metro,19,Los Angeles County,19B5,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Northern,,,,ABC Northern,34,Sacramento County,3430,1/1/2002,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Oakland,,,,ABC Oakland,1,Alameda County,011A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Rancho Mirage,,,,ABC Rancho Mirage,33,Riverside County,331A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Redding,,,,ABC Redding,45,Shasta County,451A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Riverside,,,,ABC Riverside,33,Riverside County,332A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Sacramento,,,,ABC Sacramento,34,Sacramento County,342A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Salinas,,,,ABC Salinas,27,Monterey County,271A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC San Diego,,,,ABC San Diego,37,San Diego County,371A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC San Francisco,,,,ABC San Francisco,38,San Francisco County,381A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC San Jose,,,,ABC San Jose,43,Santa Clara County,431A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC San Luis Obispo,,,,ABC San Luis Obispo,40,San Luis Obispo County,401A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC San Marcos,,,,ABC San Marcos,37,San Diego County,372A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Santa Ana,,,,ABC Santa Ana,30,Orange County,301A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Santa Barbara,,,,ABC Santa Barbara,42,Santa Barbara County,421A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Santa Rosa,,,,ABC Santa Rosa,49,Sonoma County,491A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Southern,,,,ABC Southern,19,Los Angeles County,191T,1/1/2002,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Stockton,,,,ABC Stockton,39,San Joaquin County,391A,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Van Nuys,,,,ABC Van Nuys,19,Los Angeles County,19B6,1/1/2003,12/31/2003
+California Department of Alcoholic Beverage Control (ABC),ABC Yuba City,,,,ABC Yuba City,51,Sutter County,511A,1/1/2003,12/31/2003
+Bay Area Rapid Transit Police Department,Alameda BART,,,,Alameda BART,1,Alameda County,121,,
+Department of Pesticide Regulation,Angeles DPR,,,,Angeles DPR,56,Ventura County,5613,1/1/1985,
+California Department of State Hospitals,Atascadero State Hospital,,Atascadero State Hospital,40015M,Atascadero State Hospital,40,San Luis Obispo County,4016,1/1/1991,
+California Department of Corrections,Avenal State Prison,AVENAL STATE PRISON,Avenal State Prison,16015C,,,,,,
+California Department of Corrections,Baker Community Correctional Facility,,Baker Community Correctional Facility,36093C,,,,,,
+Department of Pesticide Regulation,Bay Area DPR,,,,Bay Area DPR,41,San Mateo County,4126,1/1/1985,1/1/20
+Department of Pesticide Regulation,Bay Area DPR,,,,Bay Area DPR,49,Sonoma County,4911,1/1/1985,
+Department of Pesticide Regulation,Big Sur DPR,,,,Big Sur DPR,27,Monterey County,2716,1/1/1985,12/31/1992
+California Highway Patrol,CA Highway Patrol - Alameda,,California Highway Patrol,19900,CA Highway Patrol - Alameda,1,Alameda County,199,,
+California Highway Patrol,CA Highway Patrol - Alpine,,,,CA Highway Patrol - Alpine,2,Alpine County,299,,
+California Highway Patrol,CA Highway Patrol - Amador,,California Highway Patrol,39900,CA Highway Patrol - Amador,3,Amador County,399,,
+California Highway Patrol,CA Highway Patrol - Butte,,California Highway Patrol,49900,CA Highway Patrol - Butte,4,Butte County,499,,
+California Highway Patrol,CA Highway Patrol - Calaveras,,California Highway Patrol,59900,CA Highway Patrol - Calaveras,5,Calaveras County,599,,
+California Highway Patrol,CA Highway Patrol - Colusa,,,,CA Highway Patrol - Colusa,6,Colusa County,699,,
+California Highway Patrol,CA Highway Patrol - Contra Costa,,California Highway Patrol,79900,CA Highway Patrol - Contra Costa,7,Contra Costa County,799,,
+California Highway Patrol,CA Highway Patrol - Del Norte,,California Highway Patrol,89900,CA Highway Patrol - Del Norte,8,Del Norte County,899,,
+California Highway Patrol,CA Highway Patrol - El Dorado,,California Highway Patrol,99900,CA Highway Patrol - El Dorado,9,El Dorado County,999,,
+California Highway Patrol,CA Highway Patrol - Fresno,,California Highway Patrol,109900,CA Highway Patrol - Fresno,10,Fresno County,1099,,
+California Highway Patrol,CA Highway Patrol - Glenn,,,,CA Highway Patrol - Glenn,11,Glenn County,1199,,
+California Highway Patrol,CA Highway Patrol - Humboldt,,California Highway Patrol,129900,CA Highway Patrol - Humboldt,12,Humboldt County,1299,,
+California Highway Patrol,CA Highway Patrol - Imperial,,California Highway Patrol,139900,CA Highway Patrol - Imperial,13,Imperial County,1399,,
+California Highway Patrol,CA Highway Patrol - Inyo,,California Highway Patrol,149900,CA Highway Patrol - Inyo,14,Inyo County,1499,,
+California Highway Patrol,CA Highway Patrol - Kern,,California Highway Patrol,159900,CA Highway Patrol - Kern,15,Kern County,1599,,
+California Highway Patrol,CA Highway Patrol - Kings,,California Highway Patrol,169900,CA Highway Patrol - Kings,16,Kings County,1699,,
+California Highway Patrol,CA Highway Patrol - Lake,,California Highway Patrol,179900,CA Highway Patrol - Lake,17,Lake County,1799,,
+California Highway Patrol,CA Highway Patrol - Lassen,,California Highway Patrol,189900,CA Highway Patrol - Lassen,18,Lassen County,1899,,
+California Highway Patrol,CA Highway Patrol - Los Angeles,,California Highway Patrol,199900,CA Highway Patrol - Los Angeles,19,Los Angeles County,1999,,
+California Highway Patrol,CA Highway Patrol - Madera,,California Highway Patrol,209900,CA Highway Patrol - Madera,20,Madera County,2099,,
+California Highway Patrol,CA Highway Patrol - Marin,,California Highway Patrol,219900,CA Highway Patrol - Marin,21,Marin County,2199,,
+California Highway Patrol,CA Highway Patrol - Mariposa,,,,CA Highway Patrol - Mariposa,22,Mariposa County,2299,,
+California Highway Patrol,CA Highway Patrol - Mendocino,,California Highway Patrol,239900,CA Highway Patrol - Mendocino,23,Mendocino County,2399,,
+California Highway Patrol,CA Highway Patrol - Merced,,California Highway Patrol,249900,CA Highway Patrol - Merced,24,Merced County,2499,,
+California Highway Patrol,CA Highway Patrol - Modoc,,,,CA Highway Patrol - Modoc,25,Modoc County,2599,,
+California Highway Patrol,CA Highway Patrol - Mono,,California Highway Patrol,269900,CA Highway Patrol - Mono,26,Mono County,2699,,
+California Highway Patrol,CA Highway Patrol - Monterey,,California Highway Patrol,279900,CA Highway Patrol - Monterey,27,Monterey County,2799,,
+California Highway Patrol,CA Highway Patrol - Napa,,,,CA Highway Patrol - Napa,28,Napa County,2899,,
+California Highway Patrol,CA Highway Patrol - Nevada,,California Highway Patrol,299900,CA Highway Patrol - Nevada,29,Nevada County,2999,,
+California Highway Patrol,CA Highway Patrol - Orange,,California Highway Patrol,309900,CA Highway Patrol - Orange,30,Orange County,3099,,
+California Highway Patrol,CA Highway Patrol - Placer,,California Highway Patrol,319900,CA Highway Patrol - Placer,31,Placer County,3199,,
+California Highway Patrol,CA Highway Patrol - Plumas,,,,CA Highway Patrol - Plumas,32,Plumas County,3299,,
+California Highway Patrol,CA Highway Patrol - Riverside,,California Highway Patrol,339900,CA Highway Patrol - Riverside,33,Riverside County,3399,,
+California Highway Patrol,CA Highway Patrol - Sacramento,,California Highway Patrol,349900,CA Highway Patrol - Sacramento,34,Sacramento County,3499,,
+California Highway Patrol,CA Highway Patrol - San Benito,,California Highway Patrol,359900,CA Highway Patrol - San Benito,35,San Benito County,3599,,
+California Highway Patrol,CA Highway Patrol - San Bernardino,,California Highway Patrol,369900,CA Highway Patrol - San Bernardino,36,San Bernardino County,3699,,
+California Highway Patrol,CA Highway Patrol - San Diego,,California Highway Patrol,379900,CA Highway Patrol - San Diego,37,San Diego County,3799,,
+California Highway Patrol,CA Highway Patrol - San Francisco,,California Highway Patrol,389900,CA Highway Patrol - San Francisco,38,San Francisco County,3899,,
+California Highway Patrol,CA Highway Patrol - San Joaquin,,California Highway Patrol,399900,CA Highway Patrol - San Joaquin,39,San Joaquin County,3999,,
+California Highway Patrol,CA Highway Patrol - San Luis Obispo,,California Highway Patrol,409900,CA Highway Patrol - San Luis Obispo,40,San Luis Obispo County,4099,,
+California Highway Patrol,CA Highway Patrol - San Mateo,,California Highway Patrol,419900,CA Highway Patrol - San Mateo,41,San Mateo County,4199,,
+California Highway Patrol,CA Highway Patrol - Santa Barbara,,California Highway Patrol,429900,CA Highway Patrol - Santa Barbara,42,Santa Barbara County,4299,,
+California Highway Patrol,CA Highway Patrol - Santa Clara,,California Highway Patrol,439900,CA Highway Patrol - Santa Clara,43,Santa Clara County,4399,,
+California Highway Patrol,CA Highway Patrol - Santa Cruz,,California Highway Patrol,449900,CA Highway Patrol - Santa Cruz,44,Santa Cruz County,4499,,
+California Highway Patrol,CA Highway Patrol - Shasta,,California Highway Patrol,459900,CA Highway Patrol - Shasta,45,Shasta County,4599,,
+California Highway Patrol,CA Highway Patrol - Sierra,,,,CA Highway Patrol - Sierra,46,Sierra County,4699,,
+California Highway Patrol,CA Highway Patrol - Siskiyou,,California Highway Patrol,479900,CA Highway Patrol - Siskiyou,47,Siskiyou County,4799,,
+California Highway Patrol,CA Highway Patrol - Solano,,California Highway Patrol,489900,CA Highway Patrol - Solano,48,Solano County,4899,,
+California Highway Patrol,CA Highway Patrol - Sonoma,,California Highway Patrol,499900,CA Highway Patrol - Sonoma,49,Sonoma County,4999,,
+California Highway Patrol,CA Highway Patrol - Stanislaus,,California Highway Patrol,509900,CA Highway Patrol - Stanislaus,50,Stanislaus County,5099,,
+California Highway Patrol,CA Highway Patrol - Sutter,,California Highway Patrol,519900,CA Highway Patrol - Sutter,51,Sutter County,5199,,
+California Highway Patrol,CA Highway Patrol - Tehama,,California Highway Patrol,529900,CA Highway Patrol - Tehama,52,Tehama County,5299,,
+California Highway Patrol,CA Highway Patrol - Trinity,,,,CA Highway Patrol - Trinity,53,Trinity County,5399,,
+California Highway Patrol,CA Highway Patrol - Tulare,,California Highway Patrol,549900,CA Highway Patrol - Tulare,54,Tulare County,5499,,
+California Highway Patrol,CA Highway Patrol - Tuolumne,,California Highway Patrol,559900,CA Highway Patrol - Tuolumne,55,Tuolumne County,5599,,
+California Highway Patrol,CA Highway Patrol - Ventura,,California Highway Patrol,569900,CA Highway Patrol - Ventura,56,Ventura County,5699,,
+California Highway Patrol,CA Highway Patrol - Yolo,,California Highway Patrol,579900,CA Highway Patrol - Yolo,57,Yolo County,5799,,
+California Highway Patrol,CA Highway Patrol - Yuba,,California Highway Patrol,589900,CA Highway Patrol - Yuba,58,Yuba County,5899,,
+California State Police,CA State Police - Alameda,,,,CA State Police - Alameda,1,Alameda County,198,,6/30/1995
+California State Police,CA State Police - Butte,,,,CA State Police - Butte,4,Butte County,498,,6/30/1995
+California State Police,CA State Police - Contra Costa,,,,CA State Police - Contra Costa,7,Contra Costa County,798,,6/30/1995
+California State Police,CA State Police - Fresno,,,,CA State Police - Fresno,10,Fresno County,1098,,6/30/1995
+California State Police,CA State Police - Imperial,,,,CA State Police - Imperial,13,Imperial County,1398,,6/30/1995
+California State Police,CA State Police - Kern,,,,CA State Police - Kern,15,Kern County,1598,,6/30/1995
+California State Police,CA State Police - Kings,,,,CA State Police - Kings,16,Kings County,1698,,6/30/1995
+California State Police,CA State Police - Lassen,,,,CA State Police - Lassen,18,Lassen County,1898,,6/30/1995
+California State Police,CA State Police - Los Angeles,,,,CA State Police - Los Angeles,19,Los Angeles County,1998,,6/30/1995
+California State Police,CA State Police - Marin,,,,CA State Police - Marin,21,Marin County,2198,1/1/1984,1/31/1984
+California State Police,CA State Police - Merced,,,,CA State Police - Merced,24,Merced County,2498,,6/30/1995
+California State Police,CA State Police - Napa,,,,CA State Police - Napa,28,Napa County,2898,1/1/1984,1/31/1984
+California State Police,CA State Police - Orange,,,,CA State Police - Orange,30,Orange County,3098,,6/30/1995
+California State Police,CA State Police - Riverside,,,,CA State Police - Riverside,33,Riverside County,3398,,6/30/1995
+California State Police,CA State Police - Sacramento,,,,CA State Police - Sacramento,34,Sacramento County,3498,,6/30/1995
+California State Police,CA State Police - San Benito,,,,CA State Police - San Benito,35,San Benito County,3598,1/1/1984,1/31/1984
+California State Police,CA State Police - San Bernardino,,,,CA State Police - San Bernardino,36,San Bernardino County,3698,,6/30/1995
+California State Police,CA State Police - San Diego,,,,CA State Police - San Diego,37,San Diego County,3798,,6/30/1995
+California State Police,CA State Police - San Francisco,,,,CA State Police - San Francisco,38,San Francisco County,3898,,6/30/1995
+California State Police,CA State Police - San Joaquin,,,,CA State Police - San Joaquin,39,San Joaquin County,3998,,6/30/1995
+California State Police,CA State Police - San Mateo,,,,CA State Police - San Mateo,41,San Mateo County,4198,,6/30/1995
+California State Police,CA State Police - Santa Barbara,,,,CA State Police - Santa Barbara,42,Santa Barbara County,4298,,6/30/1995
+California State Police,CA State Police - Santa Clara,,,,CA State Police - Santa Clara,43,Santa Clara County,4398,,6/30/1995
+California State Police,CA State Police - Shasta,,,,CA State Police - Shasta,45,Shasta County,4598,,6/30/1995
+California State Police,CA State Police - Solano,,,,CA State Police - Solano,48,Solano County,4898,,6/30/1995
+California State Police,CA State Police - Sonoma,,,,CA State Police - Sonoma,49,Sonoma County,4998,,6/31/1995
+California State Police,CA State Police - Stanislaus,,,,CA State Police - Stanislaus,50,Stanislaus County,5098,,6/30/1995
+California State Police,CA State Police - Ventura,,,,CA State Police - Ventura,56,Ventura County,5698,,6/30/1995
+California State Police,CA State Police - Yolo,,,,CA State Police - Yolo,57,Yolo County,5798,,6/30/1995
+California Department of Corrections,CCHCS-CSP Los Angeles,CCHCS-CSP LOS ANGELES,,,,,,,,
+California Department of Corrections,CCHCS-California Institution for Women,CCHCS-CA INSTITUTION FOR WOMEN,,,,,,,,
+California Department of Corrections,CCHCS-Chuckawalla Valley State Prison,CCHCS-CHUCKAWALLA VALLEY SP,,,,,,,,
+California Department of Corrections,CCHCS-Deuel Vocational Center,CCHCS-DEUEL VOCATIONAL CENTER,,,,,,,,
+California Department of Corrections,CCHCS-Folsom State Prison,CCHCS-FOLSOM STATE PRISON,,,,,,,,
+California Department of Corrections,CCHCS-Headquarters,CCHCS-HEADQUARTERS,,,,,,,,
+California Department of Corrections,CCHCS-Substance Abuse Treatment Facility,CCHCS-SUSBTANCE ABUSE TRMT FAC,,,,,,,,
+California Department of Corrections,CDCR ADMIN,CDCR ADMIN,,,,,,,,
+California Department of Corrections,CDCR Parole,,CDCR Parole,30025G,,,,,,
+California Department of Corrections,CDCR Parole,,CDCR Parole,33015G,,,,,,
+California Department of Corrections,CDCR-California Medical Facility-PIP,CDCR-CA MEDICAL FACILITY-PIP,,,,,,,,
+California Department of Corrections,CDCR-Salinas Valley-PIP,CDCR-SALINAS VALLEY-PIP,,,,,,,,
+California Department of Corrections,CDCR/Administration,CDCR/ADMINISTRATION,,,,,,,,
+California Department of Corrections,CDCR/CBU/Medical Parole,,CDCR/CBU/Medical Parole,99025C,,,,,,
+California Department of Corrections,CDCR/CBU/Out-of-State Correctional Facility,,CDCR/CBU/Out-of-State Correctional Facility,99015C,,,,,,
+California Department of Corrections,CDCR/CBU/SACCO/WICC,,CDCR/CBU/SACCO/WICC,99035C,,,,,,
+California Department of Corrections,CDCR/CCHCS California Health Care Facility,CDCR/CCHCS CA HEALTH CARE FAC,,,,,,,,
+California Department of Corrections,CDCR/CCHCS California Health Care Facility,CDCR/CCHCS CA HEALTH CARE FACI,,,,,,,,
+California Department of Corrections,CHADERJIAN SCHOOL,CHADERJIAN SCHOOL,,,,,,,,
+California Department of Corrections,CSP - Los Angeles County,CSP - LOS ANGELES COUNTY,,,,,,,,
+Department of Pesticide Regulation,Calaveras DPR,,,,Calaveras DPR,5,Calaveras County,503,1/1/1985,
+California Department of Corrections,California City Correctional Facility,CA CITY CORRECTIONAL FACILITY,California City Correctional Facility,15085C,,,,,,
+California Department of Corrections,California Correctional Center,CA. CORRECTIONAL CENTER,California Correctional Center,18015C,,,,,,
+California Department of Corrections,California Correctional Institution,CA. CORRECTIONAL INSTITUTION,California Correctional Institution,15015C,,,,,,
+California Department of Corrections,California Health Care Facility,CA. HEALTH CARE FACILITY,California Health Care Facility,39045G,,,,,,
+California Department of Corrections,California Institution for Men,CA. INSTITUTION FOR MEN,California Institution for Men,36015C,,,,,,
+California Department of Corrections,California Institution for Men,CA. INSTITUTION FOR MEN,California Institution for Men,36045C,,,,,,
+California Department of Corrections,California Institution for Men,CA. INSTITUTION FOR MEN,California Institution for Men,36055C,,,,,,
+California Department of Corrections,California Institution for Men,CA. INSTITUTION FOR MEN,California Institution for Men,36065C,,,,,,
+California Department of Corrections,California Institution for Women,CA. INSTITUTION FOR WOMEN,California Institution for Women,33025C,,,,,,
+California Department of Corrections,California Institution for Women,CA. INSTITUTION FOR WOMEN,California Institution for Women,36085C,,,,,,
+California Department of Corrections,California Medical Facility,CA MEDICAL FACILITY-PIP,California Medical Facility,48015C,,,,,,
+California Department of Corrections,California Medical Facility,CA. MEDICAL FACILITY,California Medical Facility,48015C,,,,,,
+California Department of Corrections,California Men's Colony,CA. MEN'S COLONY,California Men's Colony,40015C,,,,,,
+California Department of Corrections,California Rehabilitation Center,,California Rehabilitation Center,33015C,,,,,,
+California Department of Corrections,California State Prison - Los Angeles,CA. STATE PRISON - LOS ANGELE,,,,,,,,
+California Department of Corrections,"California State Prison, Corcoran",CA. STATE PRISON - CORCORAN,,,,,,,,
+California Department of Corrections,"California State Prison, Lancaster",,"California State Prison, Lancaster",19105C,,,,,,
+California Department of Corrections,"California State Prison, Sacramento",CA. STATE PRISON - SACRAMENTO,"California State Prison, Sacramento",34065C,,,,,,
+California Department of Corrections,"California State Prison, Solano",CA. STATE PRISON - SOLANO,"California State Prison, Solano",48045C,,,,,,
+California Department of Corrections,"California State Prison, Wasco",CA. STATE PRISON - WASCO,,,,,,,,
+California Department of Corrections,California Substance Abuse Treatment Facility,,California Substance Abuse Treatment Facility,16045C,,,,,,
+California Department of Corrections,California Substance Abuse Treatment Facility - Corcoran,SUBSTANCE ABUSE TREAT-CORCORA,,,,,,,,
+California Department of Corrections,California Substance Abuse Treatment Facility - Corcoran,SUBSTANCE ABUSE TREAT-CORCORAN,,,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,03015C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,03025C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,19045C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,19055C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,22015C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,34025C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,36025C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,36035C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,39025C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,39035C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,39055C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,40025C,,,,,,
+California Department of Corrections,California Youth Authority,,California Youth Authority,56025C,,,,,,
+California Department of Corrections,Calipatria State Prison,CALIPATRIA STATE PRISON,Calipatria State Prison,13015C,,,,,,
+Department of Pesticide Regulation,Capital DPR,,,,Capital DPR,34,Sacramento County,3422,1/1/1985,
+Department of Pesticide Regulation,Cascade DPR,,,,Cascade DPR,45,Shasta County,4505,1/1/1985,12/31/1992
+California Department of Corrections,Centinela State Prison,CENTINELA STATE PRISON,Centinela State Prison,13045C,,,,,,
+California Department of Corrections,Central California Women's Facility,CENTRAL CA. WOMENS FACILITY,Central CA Women's Facility,20015C,,,,,,
+California Department of Corrections,Central Region,CENTRAL REGION,,,,,,,,
+Department of Pesticide Regulation,Channel Coast DPR,,,,Channel Coast DPR,56,Ventura County,5615,1/1/1985,
+Department of Pesticide Regulation,Chino Hills DPR,,,,Chino Hills DPR,33,Riverside County,3337,1/1/1990,12/31/1992
+Department of Pesticide Regulation,Chino Hills DPR,,,,Chino Hills DPR,36,San Bernardino County,3629,1/1/1989,12/31/1989
+California Department of Corrections,Chuckawalla Valley State Prison,CHUCKAWALLA VALLEY STATE PRIS,Chuckawalla Valley State Prison,33045C,,,,,,
+Department of Pesticide Regulation,Clear Lake DPR,,,,Clear Lake DPR,17,Lake County,1703,1/1/1985,12/31/1992
+California Department of State Hospitals,Coalinga State Hospital,,Coalinga State Hospital,10015M,Coalinga State Hospital,10,Fresno County,10M1,1/1/2008,
+Department of Pesticide Regulation,Colorado DPR,,,,Colorado DPR,37,San Diego County,3722,1/1/1985,
+Department of Pesticide Regulation,Columbia DPR,,,,Columbia DPR,55,Tuolumne County,5502,1/1/1985,12/31/1992
+Bay Area Rapid Transit Police Department,Contra Costa BART,,,,Contra Costa BART,7,Contra Costa County,718,,
+California Department of Corrections,Corcoran State Prison,,Corcoran State Prison,16025C,,,,,,
+California Department of Corrections,Correctional Training Facility,CORRECTIONAL TRAINING FACILIT,Correctional Training Facility,27015C,,,,,,
+California Department of Corrections,Corrections/Administration,CORRECTIONS/ADMINISTRATION,,,,,,,,
+California Department of Corrections,Delano II State Prison,DELANO II STATE PRISON,,,,,,,,
+Department of Pesticide Regulation,Delta/Brandon Island DPR,,,,Delta/Brandon Island DPR,48,Solano County,4809,1/1/1985,12/31/1989
+California Department of Corrections,Deuel Vocational Institution,DEUEL VOCATIONAL INSTITUTION,Deuel Vocational Institution,39015C,,,,,,
+Department of Pesticide Regulation,Diablo DPR,,,,Diablo DPR,7,Contra Costa County,725,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Diablo Range DPR,,,,Diablo Range DPR,1,Alameda County,141,1/1/20,
+East Bay Municipal Utilities Dist.,East Bay Mun. Util. Dist. - Alameda,,,,East Bay Mun. Util. Dist. - Alameda,1,Alameda County,131,12/1/1983,12/31/2016
+East Bay Municipal Utilities Dist.,East Bay Reg. Park Dist. - Alameda,,,,East Bay Reg. Park Dist. - Alameda,1,Alameda County,114,,
+East Bay Municipal Utilities Dist.,East Bay Reg. Park Dist. - Contra Costa,,,,East Bay Reg. Park Dist. - Contra Costa,7,Contra Costa County,717,,12/31/2016
+Department of Pesticide Regulation,Eel River DPR,,,,Eel River DPR,12,Humboldt County,1210,1/1/1985,12/31/1992
+California Department of Corrections,El Paso De Robles School,EL PASO DE ROBLES SCHOOL,,,,,,,,
+California Department of Corrections,Folsom State Prison,FOLSOM STATE PRISON,Folsom State Prison,34015C,,,,,,
+Department of Pesticide Regulation,Four Rivers DPR,,,,Four Rivers DPR,24,Merced County,2410,1/1/1985,
+Department of Pesticide Regulation,Frontera DPR,,,,Frontera DPR,37,San Diego County,3723,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Gavilan DPR,,,,Gavilan DPR,35,San Benito County,3505,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Gaviota DPR,,,,Gaviota DPR,42,Santa Barbara County,4208,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Gold Fields DPR,,,,Gold Fields DPR,34,Sacramento County,3412,1/1/1985,
+Department of Pesticide Regulation,Gold Mines DPR,,,,Gold Mines DPR,29,Nevada County,2904,1/1/1985,12/31/1992?
+California Department of Corrections,Headquarters,HEADQUARTERS,,,,,,,,
+Department of Pesticide Regulation,High Desert DPR,,,,High Desert DPR,19,Los Angeles County,191B,1/1/1985,12/31/1992
+California Department of Corrections,High Desert State Prison,HIGH DESERT STATE PRISON,High Desert State Prison,18035C,,,,,,
+Department of Pesticide Regulation,Hollister Hills DPR,,,,Hollister Hills DPR,35,San Benito County,3504,1/1/1985,1/1/20
+Department of Pesticide Regulation,Hungry Valley DPR,,,,Hungry Valley DPR,56,Ventura County,5617,1/1/1990,
+Department of Pesticide Regulation,Hungry Valley DPR,,,,Hungry Valley DPR,19,Los Angeles County,191C,1/1/1985,12/31/1989
+Department of Pesticide Regulation,Inland Empire DPR,,,,Inland Empire DPR,33,Riverside County,3324,1/1/1985,
+California Department of Corrections,Ironwood State Prison,IRONWOOD STATE PRISON,Ironwood State Prison,33065C,,,,,,
+California Department of Corrections,Kern Valley State Prison,KERN VALLEY STATE PRISON,Kern Valley State Prison,15075C,,,,,,
+Department of Pesticide Regulation,La Purisma Mission DPR,,,,La Purisma Mission DPR,42,Santa Barbara County,4209,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Marin DPR,,,,Marin DPR,21,Marin County,2114,1/1/1985,1/1/20
+Department of Pesticide Regulation,Marshall Gold DPR,,,,Marshall Gold DPR,9,El Dorado County,923,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Mendocino DPR,,,,Mendocino DPR,23,Mendocino County,2306,7/1/2001,12/31/2016
+California Department of State Hospitals,Metropolitan State Hospital,,Metropolitan State Hospital,19015M,Metropolitan State Hospital,19,Los Angeles County,19A9,1/1/2017,
+Department of Pesticide Regulation,Mojave River DPR,,,,Mojave River DPR,36,San Bernardino County,3625,1/1/1985,12/21/1992
+Department of Pesticide Regulation,Montane DPR,,,,Montane DPR,37,San Diego County,3727,1/1/1987,12/31/1992
+Department of Pesticide Regulation,Monterey DPR,,,,Monterey DPR,27,Monterey County,2717,1/1/1985,
+Department of Pesticide Regulation,Mt. San Jacinto DPR,,,,Mt. San Jacinto DPR,33,Riverside County,3326,1/1/1985,12/31/1992
+California Department of Corrections,Mule Creek State Prison,MULE CREEK STATE PRISON,Mule Creek State Prison,03035C,,,,,,
+Department of Pesticide Regulation,Napa DPR,,,,Napa DPR,28,Napa County,2807,1/1/1985,12/31/1992
+California Department of State Hospitals,Napa State Hospital,,Napa State Hospital,28015M,Napa State Hospital,28,Napa County,2808,1/1/1985,
+California Department of Corrections,North Kern State Prison,NORTH KERN STATE PRISON,North Kern State Prison,15045C,,,,,,
+Department of Pesticide Regulation,Northern Buttes DPR,,,,Northern Buttes DPR,4,Butte County,407,1/1/1985,
+California Department of Corrections,Northern California Women's Facility,,Northern California Women's Facility,39065C,,,,,,
+California Department of Corrections,Northern California Youth Center,NORTHERN CA. YOUTH CENTER,,,,,,,,
+Department of Pesticide Regulation,Northern Coast Redwoods DPR,,,,Northern Coast Redwoods DPR,12,Humboldt County,1211,1/1/1985,
+California Department of Corrections,Northern Region,NORTHERN REGION,,,,,,,,
+California Department of Corrections,O. H. Close School,O. H. CLOSE SCHOOL,,,,,,,,
+Department of Pesticide Regulation,Oceano Dunes DPR,,,,Oceano Dunes DPR,40,San Luis Obispo County,4014,1/1/1985,
+Department of Pesticide Regulation,Ocotillo Wells DPR,,,,Ocotillo Wells DPR,37,San Diego County,3724,1/1/1985,
+Department of Pesticide Regulation,Orange Coast DPR,,,,Orange Coast DPR,30,Orange County,3032,1/1/1985,
+Department of Pesticide Regulation,Pajaro Coast DPR,,,,Pajaro Coast DPR,44,Santa Cruz County,4407,1/1/1985,12/31/1992
+California Department of Corrections,Parole & Community Services Division,PAROLE & COMMUNITY SVS DIV,,,,,,,,
+California Department of State Hospitals,Patton State Hospital,,Patton State Hospital,36015M,Patton State Hospital,36,San Bernardino County,3657,1/1/2008,
+California Department of Corrections,Pelican Bay State Prison,PELICAN BAY STATE PRISON,Pelican Bay State Prison,08015C,,,,,,
+Department of Pesticide Regulation,Pendleton Coast DPR,,,,Pendleton Coast DPR,30,Orange County,3033,1/1/1985,12/31/1992
+Department of Pesticide Regulation,Picacho DPR,,,,Picacho DPR,33,Riverside County,3328,1/1/1985,12/31/1992
+California Department of Corrections,Pine Grove Youth Conservation Camp,PINE GROVE YTH CONS CAMP,,,,,,,,
+California Department of Corrections,Pleasant Valley State Prison,PLEASANT VALLEY STATE PRISON,Pleasant Valley State Prison,10015C,,,,,,
+Department of Pesticide Regulation,Plumas-Eureka DPR,,,,Plumas-Eureka DPR,32,Plumas County,3202,1/1/1985,12/31/1992
+California Department of Developmental Services,Porterville Developmental Center,,Porterville Developmental Center,160600,,,,,,
+California Department of Corrections,Preston School of Industry,PRESTON SCHOOL OF INDUSTRY,,,,,,,,
+California Department of Corrections,R. J. Donovan Correctional Facility,R J DONOVAN CORR FACILITY,R. J. Donovan Correctional Facility,37015C,,,,,,
+California Department of Corrections,Rehabilitation Center,REHABILITATION CENTER,,,,,,,,
+California Department of Corrections,Richard A McGee Correctional Training Center,RA MCGEE CORR TRAIN CNTR,,,,,,,,
+California Department of Corrections,Richard A McGee Correctional Training Center,RICHARD A MCGEE CORR TR CENTER,,,,,,,,
+California Department of Corrections,Salinas Valley - PIP,SALINAS VALLEY - PIP,,,,,,,,
+California Department of Corrections,Salinas Valley State Prison,SALINAS VALLEY STATE PRISON,Salinas Valley State Prison,27025C,,,,,,
+Department of Pesticide Regulation,Salton Sea DPR,,,,Salton Sea DPR,33,Riverside County,3327,1/1/1985,12/31/1992
+Department of Pesticide Regulation,San Diego Coast DPR,,,,San Diego Coast DPR,37,San Diego County,3725,1/1/1985,
+Bay Area Rapid Transit Police Department,San Francisco BART,,,,San Francisco BART,38,San Francisco County,3805,,
+Department of Pesticide Regulation,San Francisco DPR,,,,San Francisco DPR,38,San Francisco County,3810,1/1/1985,12/31/1992
+Department of Pesticide Regulation,San Joaquin DPR,,,,San Joaquin DPR,10,Fresno County,1030,1/1/1985,
+Department of Pesticide Regulation,San Luis Obispo Coast DPR,,,,San Luis Obispo Coast DPR,40,San Luis Obispo County,4013,1/1/1985,
+Department of Pesticide Regulation,San Luis Obispo DPR,,,,San Luis Obispo DPR,40,San Luis Obispo County,4012,8/1/21,
+Bay Area Rapid Transit Police Department,San Mateo BART,,,,San Mateo BART,41,San Mateo County,4123,,
+California Department of Corrections,San Quentin State Prison,SAN QUENTIN STATE PRISON,San Quentin State Prison,21015C,,,,,,
+Department of Pesticide Regulation,San Simeon DPR,,,,San Simeon DPR,40,San Luis Obispo County,4012,1/1/1985,12/31/2003
+Bay Area Rapid Transit Police Department,Santa Clara BART,,,,Santa Clara BART,43,Santa Clara County,4338,6/1/20,
+Department of Pesticide Regulation,Santa Cruz Mtns. DPR,,,,Santa Cruz Mtns. DPR,44,Santa Cruz County,4408,1/1/1985,
+California Department of Corrections,Sierra Conservation Center,SIERRA CONSERVATION CENTER,Sierra Conservation Center,55015C,,,,,,
+Department of Pesticide Regulation,Sierra DPR,,,,Sierra DPR,31,Placer County,3107,1/1/1985,
+Department of Pesticide Regulation,Sonoma Mendocino Coast DPR,,,,Sonoma Mendocino Coast DPR,49,Sonoma County,4912,1/1/1985,
+California Department of Corrections,Southern Reception Center,SOUTHERN RECEPTION CENTER,,,,,,,,
+California Department of Corrections,Southern Region,SOUTHERN REGION,,,,,,,,
+California Department of State Hospitals,Stockton Developmental Center,,Stockton Developmental Center,391400,,,,,,
+Department of Pesticide Regulation,Tehachapi DPR,,,,Tehachapi DPR,36,San Bernardino County,3659,1/1/2009,
+Department of Pesticide Regulation,Twin Cities DPR,,,,Twin Cities DPR,34,Sacramento County,3433,1/1/1990,1/1/20
+Department of Pesticide Regulation,Upper Valley DPR,,,,Upper Valley DPR,4,Butte County,409,7/1/1987,12/31/1992
+California Department of Corrections,Valley State Prison,VALLEY STATE PRISON,Valley State Prison,20045C,,,,,,
+California Department of Corrections,Valley State Prison for Women,,Valley State Prison for Women,20045C,,,,,,
+California Department of Corrections,Ventura School for Girls,VENTURA SCHOOL FOR GIRLS,,,,,,,,
+California Department of Corrections,WSP/Shafter Community Correctional Facility,,WSP/Shafter Community Correctional Facility,15025C,,,,,,
+California Department of Corrections,Wasco State Prison,,Wasco State Prison,15025C,,,,,,
+California Department of Corrections,Youth Authority/Administration,YOUTH AUTHORITY/ADMINISTRATION,,,,,,,,
+California Department of Corrections,Youth Training School,YOUTH TRAINING SCHOOL,,,,,,,,
